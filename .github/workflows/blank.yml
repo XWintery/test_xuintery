@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: build jenkins
-        run: curl -X POST https://jenkins.encompass8.cn/view/BlockOne/job/SSS_Frontend_Android/build --user yunpeng:110bc82d2a3278c8264dd0703b2c6fe4c7
+        run: curl -X POST https://jenkins.encompass8.cn/view/BlockOne/job/BlockOne_iOS/build --user yunpeng:110bc82d2a3278c8264dd0703b2c6fe4c7
 
